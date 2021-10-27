@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01f3b1ea-0a0b-4c82-8239-47beb823f00e" name="Changes" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recognize-from-microphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognize-from-microphone.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/libs/__init__.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xnha0bnxLBKhCThzfiSy2HX8ny" />
   <component name="ProjectLevelVcsManager">
@@ -35,7 +37,7 @@
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Python.reset-database">
+  <component name="RunManager" selected="Python.recognize-from-microphone">
     <configuration name="collect-fingerprints-of-songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,8 +145,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recognize-from-file" />
         <item itemvalue="Python.recognize-from-microphone" />
+        <item itemvalue="Python.get-database-stat" />
+        <item itemvalue="Python.collect-fingerprints-of-songs" />
+        <item itemvalue="Python.recognize-from-file" />
       </list>
     </recent_temporary>
   </component>
